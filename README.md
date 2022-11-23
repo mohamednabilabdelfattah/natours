@@ -1,2 +1,3 @@
-# natours
-This is web application that allow users to book tours from it. this application is the application of course node bootcamp 
+# Natours Application
+
+Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
